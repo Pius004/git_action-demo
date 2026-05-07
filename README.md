@@ -1,0 +1,1 @@
+# This is a beginner lecture on CI/CD. I gain speed. Laziness is out, sleeping is out!
